@@ -1,4 +1,9 @@
+/*------------ Mobiles larger than 320px wide -----------*/
 
+@media (min-width: 375px){
+	body {background: green;
+	}
+}
 /* ----------- Tablets larger than 768px wide ----------- */
 @media (min-width: 768px) {
 	body {
